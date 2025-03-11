@@ -9,24 +9,32 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Ghostwire Security # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+Welcome to Ghostwire Security
+
+At Ghostwire Security, we are dedicated to protecting what matters most—your digital world. With the ever-evolving landscape of cyber threats, our mission is to provide top-tier cybersecurity solutions that safeguard businesses and individuals from cyber risks.
+
+We believe that security should be both accessible and effective, ensuring that you can operate with confidence, knowing your data, assets, and privacy are protected. Whether you're looking for proactive threat prevention, security consulting, or incident response, we’ve got you covered.
+
+At Ghostwire Security, we combine expertise, innovation, and a commitment to excellence to deliver tailored cybersecurity strategies that fit your unique needs. Cybersecurity isn't just about technology—it’s about trust, and we take that responsibility seriously.
+
+Thank you for visiting Ghostwire Security—we look forward to securing your future.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: ghostwiresecurity # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,12 +42,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Jeremy Harlan
+  email: jharlan@ghostwiresecurity.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/ghostwiresecurity # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

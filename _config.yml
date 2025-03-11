@@ -19,15 +19,7 @@ title: Ghostwire Security # the main title
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-Welcome to Ghostwire Security
-
-At Ghostwire Security, we are dedicated to protecting what matters most—your digital world. With the ever-evolving landscape of cyber threats, our mission is to provide top-tier cybersecurity solutions that safeguard businesses and individuals from cyber risks.
-
-We believe that security should be both accessible and effective, ensuring that you can operate with confidence, knowing your data, assets, and privacy are protected. Whether you're looking for proactive threat prevention, security consulting, or incident response, we’ve got you covered.
-
-At Ghostwire Security, we combine expertise, innovation, and a commitment to excellence to deliver tailored cybersecurity strategies that fit your unique needs. Cybersecurity isn't just about technology—it’s about trust, and we take that responsibility seriously.
-
-Thank you for visiting Ghostwire Security—we look forward to securing your future.
+  Welcome to Ghostwire Security
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
